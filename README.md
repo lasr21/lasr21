@@ -5,7 +5,7 @@
 
 Skills: Community Development / Hackathons / DevRel  🧙‍♂️
 
-- 🔭 I’m currently working on Enabling MDN Spanish localization  
+- 🔭 I’m currently working as Education Community Manager @ GitHub
 - 🌱 I’m currently learning python 🐍 
 - 💬 Ask me about Open source, Tech communities and Hackathons 
 - 📫 How to reach me: lasr21 [at] gmail .com 
