@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luis 
 #### I am a community builder, Firefox contributor 🔥🦊 and a taco connoisseur
-![I am a community builder, Firefox contributor 🔥🦊 and a taco connoisseur](https://i.imgur.com/vb8Hvhj.gif)
+![I am a community builder, Firefox contributor 🔥🦊 and a taco connoisseur]
 
 
 Skills: Community Development / Hackathons / DevRel  🧙‍♂️
